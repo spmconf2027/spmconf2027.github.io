@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- isometric cube: solid modeling mark -->
+  <polygon points="32,6 56,19 32,32 8,19" fill="#7fd6d3"/>
+  <polygon points="8,19 32,32 32,58 8,45" fill="#0f8b8d"/>
+  <polygon points="56,19 32,32 32,58 56,45" fill="#e4572e"/>
+  <polyline points="8,19 32,32 56,19" stroke="#0d2340" stroke-width="1.5" fill="none"/>
+  <line x1="32" y1="32" x2="32" y2="58" stroke="#0d2340" stroke-width="1.5"/>
+</svg>
