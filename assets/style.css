@@ -90,6 +90,8 @@ img { max-width: 100%; }
 .btn:hover { text-decoration: none; filter: brightness(1.08); }
 .btn.ghost { background: transparent; border-color: rgba(255,255,255,.55); color: #fff; }
 .btn + .btn { margin-left: 10px; }
+.btn.outline { background: transparent; color: var(--accent); }
+.btn.outline:hover { background: #eef8f8; }
 
 .page-hero { background: linear-gradient(135deg, var(--navy) 0%, var(--navy-2) 100%); color: #fff; }
 .page-hero .wrap { padding: 44px 20px 40px; }
